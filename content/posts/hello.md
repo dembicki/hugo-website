@@ -1,10 +1,8 @@
 ---
-title: "Hello"
-date: 2019-11-29T18:59:45+01:00
-draft: false
+title: Hello
+date: 2019-11-29T17:59:45.000+00:00
+
 ---
+## Lorem ispum
 
-#Witajcie
-
-Lorem ispum 
-
+lorem ipsum ipsum lorem 
